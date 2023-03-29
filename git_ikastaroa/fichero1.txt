@@ -7,3 +7,5 @@ Konflikto adarrean aldaketak
 Masterrean aldaketa, konfliktoa emateko
 
 Lehen aldaketa lokaleam¡n, gero remotora igotzeko
+
+Lehen aldaketa adarrean
